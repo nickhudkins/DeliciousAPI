@@ -719,7 +719,6 @@ class DeliciousAPI(object):
                             # delicious' Terms of Use
                             time.sleep(sleep_seconds)
         if max_bookmarks > 0:
-            print bookmarks
             return bookmarks[:max_bookmarks]
         else:
             return bookmarks
