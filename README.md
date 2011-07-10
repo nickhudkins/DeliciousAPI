@@ -28,6 +28,11 @@ After installation, a simple import deliciousapi in your Python scripts will do 
 
 An alternative installation method is downloading the code straight from the git repository.
 
+New Method!
+-------
+
+    $ pip install -e git+https://nickhudkins@github.com/nickhudkins/DeliciousAPI.git
+
 Updates
 -------
 
