@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: deliciousapi
+Version: 1.0
+Summary: Delicious library for python
+Home-page: http://github.com/joshthecoder/tweepy
+Author: Michael G. Noll
+Author-email: michael@michael-noll.com
+License: MIT
+Description: UNKNOWN
+Keywords: delicious library
+Platform: UNKNOWN
